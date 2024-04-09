@@ -1,0 +1,17 @@
+C:\Users\disrct\Desktop\Celebridades\bin\Debug\net7.0\Celebridades.exe
+C:\Users\disrct\Desktop\Celebridades\bin\Debug\net7.0\Celebridades.deps.json
+C:\Users\disrct\Desktop\Celebridades\bin\Debug\net7.0\Celebridades.runtimeconfig.json
+C:\Users\disrct\Desktop\Celebridades\bin\Debug\net7.0\Celebridades.dll
+C:\Users\disrct\Desktop\Celebridades\bin\Debug\net7.0\Celebridades.pdb
+C:\Users\disrct\Desktop\Celebridades\bin\Debug\net7.0\Python.Runtime.dll
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.AssemblyInfo.cs
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.csproj.CopyComplete
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.dll
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\refint\Celebridades.dll
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.pdb
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\Celebridades.genruntimeconfig.cache
+C:\Users\disrct\Desktop\Celebridades\obj\Debug\net7.0\ref\Celebridades.dll
